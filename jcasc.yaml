@@ -4,7 +4,7 @@
     - credentials:
       - usernamePassword:
           description: "github"
-          id: "github"
+          id: "githubt"
           password: "{AQAAABAAAAAwq5zAUCt6+NNnxPc8s1GjpTbMO2Gn2+fwjAUBBiFcsFl5Wtmv3QFaovd5fEH9gRpHzC3+UgFTrjWctS1Fm9OisQ==}"
           scope: GLOBAL
           username: "m.behairy@outlook.com"
